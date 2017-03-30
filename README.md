@@ -17,4 +17,4 @@ Inspired by [this thread](https://www.reddit.com/r/dataisbeautiful/comments/3ilz
 * Tools: R/ggplot2
 
 [Old Reddit thread](https://www.reddit.com/r/dataisbeautiful/comments/3ilzsi/daily_sunspot_number_1900_to_aug_2015_with_11/)  
-[New Reddit thread]()
+[New Reddit thread](https://www.reddit.com/r/dataisbeautiful/comments/62gaxf/daily_sunspot_number_all_recorded_dates_oc/)
