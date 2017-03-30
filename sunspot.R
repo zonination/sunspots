@@ -1,6 +1,5 @@
 # Set working directory, load libraries, load data
 # setwd("c:/path/to/file") # needs to be uncommented to work
-# https://www.reddit.com/r/dataisbeautiful/comments/3ilzsi/daily_sunspot_number_1900_to_aug_2015_with_11/
 # Direct Download: http://www.sidc.be/silso/INFO/sndtotcsv.php
 library(readr)
 library(ggplot2)
