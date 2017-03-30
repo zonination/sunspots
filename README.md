@@ -9,6 +9,8 @@ Inspired by [this thread](https://www.reddit.com/r/dataisbeautiful/comments/3ilz
 
 ## Gallery
 
+![Daily Sunspot Number over time](https://raw.githubusercontent.com/zonination/sunspots/master/sunspots.png)
+
 ## Information
 
 * Source: http://www.sidc.be/silso/INFO/sndtotcsv.php
